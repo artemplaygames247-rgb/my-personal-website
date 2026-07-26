@@ -2,10 +2,9 @@ body {
     text-align: center;
     background-color: white;
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    align-content: center;
-    min-height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
     margin: 0;
+    padding-top: 70px;
 }
 
 a:link {
@@ -15,12 +14,15 @@ a:link {
 }
 
 .navbar{
-    position: absolute;
-    top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
+    padding: 15px 0;
     display: flex;
     justify-content: center;
     gap: 20px;
+    z-index: 100;
 }
 
 img {
