@@ -13,5 +13,4 @@ I made this using HTML and CSS. It constists of:
 ## How to run
 To run, go to the following link: https://artemplaygames247-rgb.github.io/my-personal-website/
 
-<img width="1091" height="1259" alt="image" src="https://github.com/user-attachments/assets/f1e2fd42-08bb-4c35-8820-0da56b2b7c18" />
-
+<img width="1063" height="1265" alt="Снимок экрана 2026-08-05 204040" src="https://github.com/user-attachments/assets/d4f560d0-2fe3-4816-b48f-767671ea37e4" />
