@@ -1,14 +1,16 @@
 # My Personal Website - Made with the help of Jenin!
 This is my first personal website I'm making with the help of Jenin for the Hack Club Stardance
 
-I made this using HTML and CSS. It constists of:
-- Navigation bar
-- Title
-- Headings
+I made this using HTML and CSS. It consists of:
+- A Navigation bar
+- A Title
+- Headings (one with a brown shadow)
 - Hyperlinks
-- Images
-- Text boxes
+- An Image
+- A Text box
 - Buttons
+- Hovering animations
+- Interactive elements
 
 ## How to run
 To run, go to the following link: https://artemplaygames247-rgb.github.io/my-personal-website/
