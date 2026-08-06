@@ -5,10 +5,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;;
     margin: 0;
     padding-top: 70px;
+    overflow-x: hidden;
 }
 
 a:link {
-    font-size: 21;
+    font-size: 21px;
     font-family: 'Times New Roman', Times, serif;
     color: blue;
 }
@@ -60,8 +61,9 @@ img {
 
 .animation {
     position: relative;
-
     transition: all 0.4s ease;
+    backface-visibility: hidden;
+    will-change: transform;
 }
 
 .animation:hover {
